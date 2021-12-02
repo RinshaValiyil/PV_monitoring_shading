@@ -1,0 +1,12 @@
+SSID = 'xxxxxxxxxxxx' 
+AUTH_TOKEN = 'yyyyyyyyyy' 
+FROM_NUMBER = '+233333333'
+TO_NUMBER = '+8834555xxxxxx'
+MAILGUN_API_KEY = 'tttttttttt' 
+SANDBOX_URL= 'sandbox55555bbbbbbb.mailgun.org' 
+SENDER_EMAIL = 'test@' + SANDBOX_URL  # No need to modify this. The sandbox URL is of the format test@YOUR_SANDBOX_URL
+RECIPIENT_EMAIL = 'ttteggfggf.com'
+API_KEY = 'hhhfggggf'
+DEVICE_ID = 'BOLTvvvvvvvv' 
+FRAME_SIZE=10
+Minimum_limit=800
